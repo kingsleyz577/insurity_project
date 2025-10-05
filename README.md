@@ -4,6 +4,8 @@ Telematics Integration in Auto Insurance — Proof of Concept (PoC)
 
 Repo: https://github.com/kingsleyz577/insurity_project
 
+
+
 ──────────────────────────────────────────────────────────────────
 0) TL;DR Demo
 ──────────────────────────────────────────────────────────────────
